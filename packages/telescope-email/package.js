@@ -5,7 +5,7 @@ Package.describe({
 });
 
 Npm.depends({
-  "html-to-text": "0.1.0"
+  "html-to-text": "1.1.1"
 });
 
 Package.onUse(function (api) {
