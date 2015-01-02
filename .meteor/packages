@@ -76,11 +76,6 @@ telescope-singleday
 telescope-invites
 telescope-post-by-feed
 
-<<<<<<< HEAD
-# Accounts Templates
-useraccounts:unstyled
-telescope-datetimepicker
-tsega:bootstrap3-datetimepicker@3.1.3_1
-=======
+
 # Custom Packages
->>>>>>> 16898d412145525828d0f23ac0823499bc3e3a66
+
