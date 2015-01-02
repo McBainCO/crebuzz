@@ -327,7 +327,7 @@ Meteor.startup(function () {                                                    
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                     //
-// packages/telescope-singleday/Users/grahammcbain/apto/Telescope/packages/telescope-singleday/i18n/de.i18n.js         //
+// packages/telescope-singleday/Users/grahammcbain/apto/crebuzz/packages/telescope-singleday/i18n/de.i18n.js           //
 //                                                                                                                     //
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                                        //
@@ -359,7 +359,7 @@ for (var i = 0; i < package_templates.length; i++) {                            
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                     //
-// packages/telescope-singleday/Users/grahammcbain/apto/Telescope/packages/telescope-singleday/i18n/en.i18n.js         //
+// packages/telescope-singleday/Users/grahammcbain/apto/crebuzz/packages/telescope-singleday/i18n/en.i18n.js           //
 //                                                                                                                     //
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                                        //
@@ -386,7 +386,7 @@ TAPi18n.addResourceBundle("en", namespace, {"the_top_5_posts_of_each_day":"The t
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                     //
-// packages/telescope-singleday/Users/grahammcbain/apto/Telescope/packages/telescope-singleday/i18n/es.i18n.js         //
+// packages/telescope-singleday/Users/grahammcbain/apto/crebuzz/packages/telescope-singleday/i18n/es.i18n.js           //
 //                                                                                                                     //
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                                        //
@@ -411,7 +411,7 @@ if (package_name != "project") {                                                
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                     //
-// packages/telescope-singleday/Users/grahammcbain/apto/Telescope/packages/telescope-singleday/i18n/fr.i18n.js         //
+// packages/telescope-singleday/Users/grahammcbain/apto/crebuzz/packages/telescope-singleday/i18n/fr.i18n.js           //
 //                                                                                                                     //
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                                        //
@@ -436,7 +436,7 @@ if (package_name != "project") {                                                
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                     //
-// packages/telescope-singleday/Users/grahammcbain/apto/Telescope/packages/telescope-singleday/i18n/it.i18n.js         //
+// packages/telescope-singleday/Users/grahammcbain/apto/crebuzz/packages/telescope-singleday/i18n/it.i18n.js           //
 //                                                                                                                     //
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                                        //
@@ -461,7 +461,7 @@ if (package_name != "project") {                                                
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                     //
-// packages/telescope-singleday/Users/grahammcbain/apto/Telescope/packages/telescope-singleday/i18n/tr.i18n.js         //
+// packages/telescope-singleday/Users/grahammcbain/apto/crebuzz/packages/telescope-singleday/i18n/tr.i18n.js           //
 //                                                                                                                     //
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                                        //
@@ -486,7 +486,7 @@ if (package_name != "project") {                                                
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                     //
-// packages/telescope-singleday/Users/grahammcbain/apto/Telescope/packages/telescope-singleday/i18n/zh-CN.i18n.js      //
+// packages/telescope-singleday/Users/grahammcbain/apto/crebuzz/packages/telescope-singleday/i18n/zh-CN.i18n.js        //
 //                                                                                                                     //
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                                        //

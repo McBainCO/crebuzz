@@ -28,6 +28,7 @@ Package.onUse(function (api) {
     'footerModules',
     'heroModules',
     'postModules',
+    'postThumbnail',
     'postHeading',
     'postMeta',
     'modulePositions',
@@ -57,6 +58,7 @@ Package.onUse(function (api) {
     'userProfileCompleteChecks',
     'userProfileDisplay',
     'userProfileEdit',
+    'userCreatedCallbacks',
     
     'getTemplate',
     'templates',

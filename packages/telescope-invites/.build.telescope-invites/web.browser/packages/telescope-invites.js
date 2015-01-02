@@ -238,7 +238,7 @@ AutoForm.hooks({                                                                
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                  //
-// packages/telescope-invites/Users/grahammcbain/apto/Telescope/packages/telescope-invites/i18n/de.i18n.js          //
+// packages/telescope-invites/Users/grahammcbain/apto/crebuzz/packages/telescope-invites/i18n/de.i18n.js            //
 //                                                                                                                  //
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                                     //
@@ -270,7 +270,7 @@ for (var i = 0; i < package_templates.length; i++) {                            
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                  //
-// packages/telescope-invites/Users/grahammcbain/apto/Telescope/packages/telescope-invites/i18n/en.i18n.js          //
+// packages/telescope-invites/Users/grahammcbain/apto/crebuzz/packages/telescope-invites/i18n/en.i18n.js            //
 //                                                                                                                  //
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                                     //
@@ -297,7 +297,7 @@ TAPi18n.addResourceBundle("en", namespace, {"translation_key":"translation strin
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                  //
-// packages/telescope-invites/Users/grahammcbain/apto/Telescope/packages/telescope-invites/i18n/es.i18n.js          //
+// packages/telescope-invites/Users/grahammcbain/apto/crebuzz/packages/telescope-invites/i18n/es.i18n.js            //
 //                                                                                                                  //
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                                     //
@@ -322,7 +322,7 @@ if (package_name != "project") {                                                
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                  //
-// packages/telescope-invites/Users/grahammcbain/apto/Telescope/packages/telescope-invites/i18n/fr.i18n.js          //
+// packages/telescope-invites/Users/grahammcbain/apto/crebuzz/packages/telescope-invites/i18n/fr.i18n.js            //
 //                                                                                                                  //
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                                     //
@@ -347,7 +347,7 @@ if (package_name != "project") {                                                
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                  //
-// packages/telescope-invites/Users/grahammcbain/apto/Telescope/packages/telescope-invites/i18n/it.i18n.js          //
+// packages/telescope-invites/Users/grahammcbain/apto/crebuzz/packages/telescope-invites/i18n/it.i18n.js            //
 //                                                                                                                  //
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                                     //
@@ -372,7 +372,7 @@ if (package_name != "project") {                                                
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                  //
-// packages/telescope-invites/Users/grahammcbain/apto/Telescope/packages/telescope-invites/i18n/zh-CN.i18n.js       //
+// packages/telescope-invites/Users/grahammcbain/apto/crebuzz/packages/telescope-invites/i18n/zh-CN.i18n.js         //
 //                                                                                                                  //
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                                     //

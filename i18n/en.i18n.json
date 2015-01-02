@@ -51,6 +51,7 @@
   "extraCode": "Extra Code",
   "emailFooter": "Email Footer",
   "notes": "Notes",
+  "debug": "Debug Mode",
 
   // Settings Fieldsets
   "general": "General",
@@ -161,18 +162,22 @@
   "point": "point",
   "points": "points",
 
-  //User
+  //User /client/views/users/account/user_account.html
   "please_complete_your_profile_below_before_continuing": "Please complete your profile below before continuing.",
   "account": "Account",
   "username": "Username",
   "display_name": "Display Name",
   "email": "Email",
   "bio": "Bio",
+  "twitter_username": "Twitter Username",
+  "github_username": "GitHub Username",
+  "site_url" : "Site URL",
   "password": "Password",
   "change_password": "Change Password?",
   "old_password": "Old Password",
   "new_password": "New Password",
   "email_notifications": "Email Notifications",
+  "new_users" : "New users",
   "new_posts": "New Posts",
   "comments_on_my_posts": "Comments on my posts",
   "replies_to_my_comments": "Replies to my comments",
@@ -253,6 +258,7 @@
   "posted_time": "Posted Time",
   "profile": "Profile",
   "sign_out": "Sign Out",
+  "you_ve_been_signed_out": "You've been signed out. Come back soon!",
   "invitedcount": "InvitedCount",
   "invites": "Invites",
   "invited": "Invited?",
@@ -276,5 +282,17 @@
   "are_you_sure": "Are you sure?",
   "please_log_in_first": "Please log in first",
   "sign_in_sign_up_with_twitter": "Sign In/Sign Up with Twitter",
-  "load_more": "Load more"
+  "load_more": "Load more",
+
+  "most_popular_posts": "The most popular posts right now.",
+  "newest_posts": "The newest posts.",
+  "highest_ranked_posts_ever": "The all-time highest-ranked posts.",
+
+  "the_profile_of": "The profile of",
+  
+  "posts_awaiting_moderation": "Posts awaiting moderation.",
+  "future_scheduled_posts": "Future scheduled posts.",
+  "users_dashboard": "Users dashboard.",
+  "telescope_settings_panel": "Telescope settings panel.",
+  "various_utilities": "Various utilities."
 }

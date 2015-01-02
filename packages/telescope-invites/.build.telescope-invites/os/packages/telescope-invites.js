@@ -196,7 +196,7 @@ Meteor.publish('invites', function (userId) {                                   
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                  //
-// packages/telescope-invites/Users/grahammcbain/apto/Telescope/packages/telescope-invites/i18n/de.i18n.js          //
+// packages/telescope-invites/Users/grahammcbain/apto/crebuzz/packages/telescope-invites/i18n/de.i18n.js            //
 //                                                                                                                  //
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                                     //
@@ -230,7 +230,7 @@ _.extend(TAPi18n.translations["de"][namespace], {"translation_key":"translation 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                  //
-// packages/telescope-invites/Users/grahammcbain/apto/Telescope/packages/telescope-invites/i18n/en.i18n.js          //
+// packages/telescope-invites/Users/grahammcbain/apto/crebuzz/packages/telescope-invites/i18n/en.i18n.js            //
 //                                                                                                                  //
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                                     //
@@ -257,7 +257,7 @@ TAPi18n.addResourceBundle("en", namespace, {"translation_key":"translation strin
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                  //
-// packages/telescope-invites/Users/grahammcbain/apto/Telescope/packages/telescope-invites/i18n/es.i18n.js          //
+// packages/telescope-invites/Users/grahammcbain/apto/crebuzz/packages/telescope-invites/i18n/es.i18n.js            //
 //                                                                                                                  //
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                                     //
@@ -291,7 +291,7 @@ _.extend(TAPi18n.translations["es"][namespace], {"translation_key":"translation 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                  //
-// packages/telescope-invites/Users/grahammcbain/apto/Telescope/packages/telescope-invites/i18n/fr.i18n.js          //
+// packages/telescope-invites/Users/grahammcbain/apto/crebuzz/packages/telescope-invites/i18n/fr.i18n.js            //
 //                                                                                                                  //
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                                     //
@@ -325,7 +325,7 @@ _.extend(TAPi18n.translations["fr"][namespace], {"translation_key":"translation 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                  //
-// packages/telescope-invites/Users/grahammcbain/apto/Telescope/packages/telescope-invites/i18n/it.i18n.js          //
+// packages/telescope-invites/Users/grahammcbain/apto/crebuzz/packages/telescope-invites/i18n/it.i18n.js            //
 //                                                                                                                  //
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                                     //
@@ -359,7 +359,7 @@ _.extend(TAPi18n.translations["it"][namespace], {"translation_key":"translation 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                  //
-// packages/telescope-invites/Users/grahammcbain/apto/Telescope/packages/telescope-invites/i18n/zh-CN.i18n.js       //
+// packages/telescope-invites/Users/grahammcbain/apto/crebuzz/packages/telescope-invites/i18n/zh-CN.i18n.js         //
 //                                                                                                                  //
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                                                                                                                     //
